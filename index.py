@@ -34,10 +34,7 @@ for vote in voted:
 
 #Create a plot showing the contestants and number of votes
 plt.bar(names, votes)
-plt.xticks(rotation=45, ha='right')  
 plt.title("MISS AND MISTER TOURISM KIGEZI")
 plt.xlabel("contestants name")
 plt.ylabel("Number of votes")
 plt.show()
-
-
