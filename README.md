@@ -33,6 +33,6 @@ The outlook of things from the website
 ![outlook on website](https://github.com/mugayamadox/africavotes_webscrapper_bot/blob/main/assets/real_data.PNG)
 
 **Output of Visualized data by the bot.**
-![output of bot](https://github.com/mugayamadox/africavotes_webscrapper_bot/blob/main/assets/1600hr.png)
+![output of bot](https://github.com/mugayamadox/africavotes_webscrapper_bot/blob/main/assets/1600hrs.png)
 
 
