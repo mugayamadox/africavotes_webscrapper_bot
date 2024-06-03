@@ -30,9 +30,9 @@ Have a realtime monitor and visualizer of votes simmilar to the stocks ticker.
 
 **sample info scraped**
 The outlook of things from the website
-![outlook on website](https://myoctocat.com/assets/images/base-octocat.svg)
+![outlook on website](https://github.com/mugayamadox/africavotes_webscrapper_bot/blob/main/assets/real_data.PNG)
 
 **Output of Visualized data by the bot.**
-![output of bot](https://myoctocat.com/assets/images/base-octocat.svg)
+![output of bot](https://github.com/mugayamadox/africavotes_webscrapper_bot/blob/main/assets/1700hr.png)
 
 
